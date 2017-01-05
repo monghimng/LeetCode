@@ -1,4 +1,4 @@
-public class Pow {
+public class ValidSudoku {
     public double myPow(double x, int n) {
         if(n < 0){
             x = 1 / x;
